@@ -28,10 +28,10 @@
           "name": "DictionaryFeature-1.0.1.jar",
           "url": "DictionaryFeature-1.0.1.jar",
           "size": 5377,
-          "sha512": "ff729226470da3ec5e66b8bcb009cac4e1ac50e0bdd3ab7f115248be608115064a93275cc4d6d436773a9e7713279ff1a830fec2663dc0d227734b508fdbf513",
-          "sha256": "44cfff861e52feaa9535f418115b2138153482deeac204cc0a6d24dc0270804e",
-          "sha1": "9c067d8ce01bd870c4c56086f7b43010f6ae7c56",
-          "md5": "0ced7d0e39b20b3926db4d1d44aba95a"
+          "sha512": "cc04cf3959be5ddb71cd9026341a36636cc88d114dc2182100f00def1d52601e52dfd72fc8f9e3a64cbb748d25b563bdddc62e6e8ece2cf9b3ef62580b9e8ffe",
+          "sha256": "1f62ec36c9ed7d4ee903a8e7ad48d64f2344d6e58d3344f9a0304213a7bbcefa",
+          "sha1": "1523b6a3429a5aa2e967da8587fe27abbf5a2fc5",
+          "md5": "0d2b69affcb2c099daa4c4ae25898b50"
         }
       ]
     },
@@ -191,10 +191,10 @@
           "name": "DictionaryFeature-1.0.1.jar",
           "url": "DictionaryFeature-1.0.1.jar",
           "size": 5377,
-          "sha512": "ff729226470da3ec5e66b8bcb009cac4e1ac50e0bdd3ab7f115248be608115064a93275cc4d6d436773a9e7713279ff1a830fec2663dc0d227734b508fdbf513",
-          "sha256": "44cfff861e52feaa9535f418115b2138153482deeac204cc0a6d24dc0270804e",
-          "sha1": "9c067d8ce01bd870c4c56086f7b43010f6ae7c56",
-          "md5": "0ced7d0e39b20b3926db4d1d44aba95a"
+          "sha512": "cc04cf3959be5ddb71cd9026341a36636cc88d114dc2182100f00def1d52601e52dfd72fc8f9e3a64cbb748d25b563bdddc62e6e8ece2cf9b3ef62580b9e8ffe",
+          "sha256": "1f62ec36c9ed7d4ee903a8e7ad48d64f2344d6e58d3344f9a0304213a7bbcefa",
+          "sha1": "1523b6a3429a5aa2e967da8587fe27abbf5a2fc5",
+          "md5": "0d2b69affcb2c099daa4c4ae25898b50"
         }
       ]
     }
