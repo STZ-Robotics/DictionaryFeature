@@ -1,7 +1,7 @@
 {
   "featureId": "DictionaryFeature",
   "name": "Mars Dictionary Feature",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "groupId": "com.stzteam.features.dictionary",
   "author": "STZ-Robotics",
 
