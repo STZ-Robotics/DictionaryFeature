@@ -3,7 +3,7 @@
   "component": {
     "group": "com.stzteam.features.dictionary",
     "module": "DictionaryFeature",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -25,13 +25,13 @@
       },
       "files": [
         {
-          "name": "DictionaryFeature-1.0.1.jar",
-          "url": "DictionaryFeature-1.0.1.jar",
-          "size": 5382,
-          "sha512": "4c58a134a5d67c6e61ffb677d312c5c60bef4898d20337103cd39fff539215db2da09f3e04109fd46a1fe4d8f52acfeea1c65f4e838550580308095cbe295144",
-          "sha256": "559a3627e2d36d81806029efe3955d94543b9e5db285de9bf37fa38342361ac0",
-          "sha1": "51acabad5662bb263408c25b61df15f16a35deb9",
-          "md5": "65cfb1fee926931e583c8928ea7fa5f0"
+          "name": "DictionaryFeature-1.0.2.jar",
+          "url": "DictionaryFeature-1.0.2.jar",
+          "size": 5378,
+          "sha512": "369642928f4954e601c7978c73f65679ab10150af532d3c87c2afe1be99e1c5eecbc1c767a3a7925c3a64958bc779f9987698295298d3b4ed1677fa9829811d7",
+          "sha256": "784e450c44d58a610cce5bad9e48665fad85a43756d7a45ab7e647099fa03638",
+          "sha1": "c50afab93b9d58ee36942c668560a3a04457df90",
+          "md5": "ce559bf9a29bdec3afce11bd452713cd"
         }
       ]
     },
@@ -188,13 +188,13 @@
       ],
       "files": [
         {
-          "name": "DictionaryFeature-1.0.1.jar",
-          "url": "DictionaryFeature-1.0.1.jar",
-          "size": 5382,
-          "sha512": "4c58a134a5d67c6e61ffb677d312c5c60bef4898d20337103cd39fff539215db2da09f3e04109fd46a1fe4d8f52acfeea1c65f4e838550580308095cbe295144",
-          "sha256": "559a3627e2d36d81806029efe3955d94543b9e5db285de9bf37fa38342361ac0",
-          "sha1": "51acabad5662bb263408c25b61df15f16a35deb9",
-          "md5": "65cfb1fee926931e583c8928ea7fa5f0"
+          "name": "DictionaryFeature-1.0.2.jar",
+          "url": "DictionaryFeature-1.0.2.jar",
+          "size": 5378,
+          "sha512": "369642928f4954e601c7978c73f65679ab10150af532d3c87c2afe1be99e1c5eecbc1c767a3a7925c3a64958bc779f9987698295298d3b4ed1677fa9829811d7",
+          "sha256": "784e450c44d58a610cce5bad9e48665fad85a43756d7a45ab7e647099fa03638",
+          "sha1": "c50afab93b9d58ee36942c668560a3a04457df90",
+          "md5": "ce559bf9a29bdec3afce11bd452713cd"
         }
       ]
     }
