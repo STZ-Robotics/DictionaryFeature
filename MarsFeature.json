@@ -11,7 +11,7 @@
   "forgeMiniRequired": ">=1.1.0",
 
   "mavenUrls": [
-    "https://imcab.github.io/DictionaryFeature/maven/"
+    "https://STZ-Robotics.github.io/DictionaryFeature/maven/"
   ],
   "javaDependencies": [
     {
